@@ -5,11 +5,14 @@ html, body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.jumbotron .container {
-  /*background-image: url('');
+.main .jumbotron {
+  background: url('austin-360-bridge.jpg') no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   min-height: 600px;
-  width: 100%;*/
+  width: 100%;
 }
 
 .jumbotron h2 {
