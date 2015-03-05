@@ -11,12 +11,21 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 600px;
+  min-height: 800px;
   width: 100%;
 }
 
 .jumbotron h2 {
+  color: white;
   text-align: center;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
 }
 
 #portfolio-button {
