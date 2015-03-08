@@ -24,17 +24,25 @@ html, body {
   margin-bottom: 500px;
 }
 
+/*.footer .social-media {
+  margin: 65px 0 20px;
+  width: 100%;
+}*/
+
 .social-media {
   list-style: none;
 }
 
 .social-media li {
   display: inline-block;
+  height: 24px;
+  margin: 0 30px 20px 0;
+  width: 24px;
 }
 
 .vertical-center {
-  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 100vh; /* These two lines are counted as one :-)       */
+  min-height: 100%;
+  min-height: 100vh;
   display: flex;
   align-items: center;
 }
