@@ -14,3 +14,17 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require vitality/bootstrap.min.js
+//= require vitality/cbpAnimatedHeader.js
+//= require vitality/classie.js
+//= require vitality/contact_me.js
+//= require vitality/jqBootstrapValidation.js
+//= require vitality/jquery.easing.min.js
+//= require vitality/jquery.fs.wallpaper.js
+//= require vitality/jquery.js
+//= require vitality/jquery.magnific-popup.min.js
+//= require vitality/jquery.mixitup.js
+//= require vitality/owl.carousel.js
+//= require vitality/retina.min.js
+//= require vitality/vitality.js
+//= require vitality/wow.min.js

@@ -12,4 +12,13 @@
  *
  *= require_tree .
  *= require_self
+ *= require vitality/vitality-blue.css
+ *= require vitality/animate.css
+ *= require vitality/bootstrap.min.css
+ *= require vitality/font-awesome.min.css
+ *= require vitality/jquery.fs.wallpaper.css
+ *= require vitality/magnific-popup.css
+ *= require vitality/owl.carousel.css
+ *= require vitality/owl.theme.css
+ *= require vitality/owl.transitions.css
  */

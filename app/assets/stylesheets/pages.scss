@@ -1,9 +1,10 @@
 // Place all the styles related to the Pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-html, body {
-  font-family: 'Open Sans', sans-serif;
-}
+
+// html, body {
+//   font-family: 'FontAwesome', sans-serif;
+// }
 
 .main .jumbotron {
   background: image-url('austin-360-bridge.jpg') no-repeat center center; 
@@ -23,11 +24,6 @@ html, body {
 .intro {
   margin-bottom: 500px;
 }
-
-/*.footer .social-media {
-  margin: 65px 0 20px;
-  width: 100%;
-}*/
 
 .social-media {
   list-style: none;
